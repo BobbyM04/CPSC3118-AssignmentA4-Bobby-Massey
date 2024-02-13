@@ -1,7 +1,7 @@
 # CPSC3118: AssignmentA4
 
 ## Project Details:
-- **Project Name:** Assignment A4: Burger GUI 
+- **Project Name:** Assignment A4: Burger GUI Application
 - **Student Name:** Bobby Massey
 
 ## Development Tool Used:
