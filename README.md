@@ -1,5 +1,3 @@
-# CPSC3118-AssignmentA4-Bobby-Massey
-
 # CPSC3118: AssignmentA4
 
 ## Project Details:
