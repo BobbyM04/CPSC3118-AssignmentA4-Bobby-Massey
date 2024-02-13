@@ -9,4 +9,4 @@
 - **Development Tool:** moqups.com
 
 ## Any potential issues encountered:
-- **Issues:**
+- **Issues:** Only issue was with getting the "enjoy your burger special!" to display correctly
